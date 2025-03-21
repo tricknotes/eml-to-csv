@@ -3,4 +3,5 @@
 source 'https://rubygems.org'
 
 gem 'csv'
+gem 'debug'
 gem 'mail'
