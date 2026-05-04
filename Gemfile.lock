@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     csv (3.3.3)
-    date (3.4.1)
+    date (3.5.1)
     debug (1.10.0)
       irb (~> 1.10)
       reline (>= 0.3.8)
@@ -17,7 +17,7 @@ GEM
       net-pop
       net-smtp
     mini_mime (1.1.5)
-    net-imap (0.5.7)
+    net-imap (0.5.14)
       date
       net-protocol
     net-pop (0.1.2)
@@ -37,7 +37,7 @@ GEM
     reline (0.6.0)
       io-console (~> 0.5)
     stringio (3.1.5)
-    timeout (0.4.3)
+    timeout (0.6.1)
 
 PLATFORMS
   arm64-darwin-23
